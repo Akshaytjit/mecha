@@ -96,7 +96,7 @@ function PriceDisplay() {
         <div className="prize-card">
           <p className="prize-label">TOTAL PRIZE POOL WORTH</p>
 
-          <div className="prize-value">₹30,000</div>
+          <div className="prize-value">₹40,000</div>
         </div>
 
       </section>
