@@ -18,7 +18,7 @@ function App() {
         <EventOverview />
         <EventDetails />
         <PriceDisplay />
-        <PrizeCategories />
+        // <PrizeCategories />
         <Team />
         <StudentTeam/>
         <FAQ />
